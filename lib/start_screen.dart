@@ -21,7 +21,7 @@ class StartScreen extends StatelessWidget {
               'learn Flutter with Max & NTV',
               style:GoogleFonts.lato(
                 color:const Color.fromARGB(255, 237, 223, 252 ),
-                fontSize: 35,
+                fontSize: 28,
               ),
             ),
             const SizedBox(height: 35,),
